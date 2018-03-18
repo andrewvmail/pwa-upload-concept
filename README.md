@@ -6,6 +6,7 @@ PHP needs to be installed
 git clone https://github.com/andrewvmail/pwa-upload-concept/
 cd pwa-upload-concept
 php -S 0.0.0.0:8000 -t .
+# above command will run php server and a local webserver
 # find out the ip of this computer
 # go on the phone safari type in the ip address:8000
 # save to home screen and try upload
