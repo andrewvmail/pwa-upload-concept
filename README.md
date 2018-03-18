@@ -12,6 +12,12 @@ php -S 0.0.0.0:8000 -t .
 # save to home screen and try upload
 ```
 
+
+
+<img src="https://user-images.githubusercontent.com/2431354/37564548-5c141282-2a55-11e8-9048-18bf7a812e4e.png" width="400px">
+
+
+
 # jQuery File Upload Plugin
 
 ## Demo
